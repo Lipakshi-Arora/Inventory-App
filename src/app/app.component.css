@@ -1,0 +1,17 @@
+main
+{
+    margin-top: 1rem;
+    width: 40%;
+    margin: auto;
+}
+body
+{
+    background-color: aliceblue;
+}
+.wrapper
+{
+    text-align: center;
+  
+    /* top: 50%; */
+
+}
